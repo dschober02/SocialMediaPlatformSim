@@ -6,7 +6,7 @@ import java.io.*;
     Name: Derek Schober
     Description: This is a Social Media Platform simulation that implements an observer pattern between users and
                  platforms, strategy pattern with the different searching algorithms, and a factory pattern that
-                 creates Social Media Platform objects. The 
+                 creates Social Media Platform objects.
  */
 
 
